@@ -9,11 +9,11 @@ This project involves the analysis of a **financial loan dataset** that contains
 
 **Data Description**                 
 The dataset consists of multiple features related to loan applications and borrower information, including:
-•	**Loan Information:** Loan amount, term **(36 or 60 months),** **interest rate, grade, sub-grade**, and instalment amounts.
-•	**Borrower Information:** Employment length, job title, home ownership status, annual income, and verification status.
-•	**Credit History:** Debt-to-income ratio (DTI), total accounts, and credit pull information.
-•	Payment Information: Total payment made, last payment date, and loan status.
-
+•	**Loan Information:** Loan amount, term **(36 or 60 months),** **interest rate, grade, sub-grade**, and instalment amounts.                    
+•	**Borrower Information:** Employment length, job title, home ownership status, annual income, and verification status.                     
+•	**Credit History:** Debt-to-income ratio (DTI), total accounts, and credit pull information.                                     
+•	Payment Information: Total payment made, last payment date, and loan status.                                   
+ 
 **Key Features**                                                     
 •**Data Cleaning:** The dataset has undergone cleaning to handle missing values and ensure data consistency.                        
 •	**Exploratory Analysis:** Pivot tables and dashboards provided a comprehensive overview of loan characteristics and borrower demographics.            
