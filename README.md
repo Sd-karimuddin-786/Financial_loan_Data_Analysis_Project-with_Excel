@@ -7,7 +7,7 @@ This project involves the analysis of a **financial loan dataset** that contains
 •	In Good loan I Analysed  Good loan Applications, their percentage, how much Amount Funded and how much Total Received Amount. 
 •	In Bad loan I Analysed Bad loan Applications, their percentage, how much Amount Funded and how much Total Received Amount. 
 
-**Data Description**
+**Data Description**                 
 The dataset consists of multiple features related to loan applications and borrower information, including:
 •	**Loan Information:** Loan amount, term **(36 or 60 months),** **interest rate, grade, sub-grade**, and instalment amounts.
 •	**Borrower Information:** Employment length, job title, home ownership status, annual income, and verification status.
@@ -16,7 +16,7 @@ The dataset consists of multiple features related to loan applications and borro
 
 **Key Features**                                                     
 •**Data Cleaning:** The dataset has undergone cleaning to handle missing values and ensure data consistency.                        
-•	**Exploratory Analysis:** Pivot tables and dashboards provide a comprehensive overview of loan characteristics and borrower demographics.            
+•	**Exploratory Analysis:** Pivot tables and dashboards provided a comprehensive overview of loan characteristics and borrower demographics.            
 •	**Dashboards:** Interactive visualizations summarize trends and key insights into loan performance and risk assessment.              
 
 **Contents**                                     
