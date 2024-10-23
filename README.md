@@ -8,8 +8,8 @@ This project involves the analysis of a **financial loan dataset** that contains
 •	In Bad loan I Analysed Bad loan Applications, their percentage, how much Amount Funded and how much Total Received Amount. 
 
 **Data Description**                 
-The dataset consists of multiple features related to loan applications and borrower information, including:
-•	**Loan Information:** Loan amount, term **(36 or 60 months),** **interest rate, grade, sub-grade**, and instalment amounts.                    
+The dataset consists of multiple features related to loan applications and borrower information, including:                             
+•	**Loan Information:** Loan amount, term **(36 or 60 months),** **interest rate, grade, sub-grade**, and instalment amounts.                                
 •	**Borrower Information:** Employment length, job title, home ownership status, annual income, and verification status.                     
 •	**Credit History:** Debt-to-income ratio (DTI), total accounts, and credit pull information.                                     
 •	Payment Information: Total payment made, last payment date, and loan status.                                   
